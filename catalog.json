@@ -1,0 +1,23 @@
+[
+  {
+    "id": "beyond-good",
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/cover.jpg"
+  },
+  {
+    "id": "crime-punishment",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/crime-punishment/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/crime-punishment/cover.jpg"
+  },
+  {
+    "id": "pride-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/pride-prejudice/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/pride-prejudice/cover.jpg"
+  }
+]
