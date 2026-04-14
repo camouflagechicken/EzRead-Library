@@ -4,7 +4,7 @@
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
     "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/book.txt",
-    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/cover.jpg"
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/cover.png"
   },
   {
     "id": "crime-punishment",
@@ -12,6 +12,13 @@
     "author": "Fyodor Dostoevsky",
     "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/crime-punishment/book.txt",
     "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/crime-punishment/cover.jpg"
+  },
+  {
+    "id": "notes-underground",
+    "title": "Notes from the Underground",
+    "author": "Fyodor Dostoyevsky",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/notes-underground/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/notes-underground/cover.png"
   },
   {
     "id": "pride-prejudice",
