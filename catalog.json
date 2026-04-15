@@ -89,5 +89,12 @@
     "author": "Friedrich Nietzsche",
     "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/too-human/book.txt",
     "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/too-human/cover.jpg"
+  },
+  {
+    "id": "sexual-anorexia",
+    "title": "Sexual Anorexia",
+    "author": "Patrick Carnes",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/sexual-anorexia/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/sexual-anorexia/cover.jpg"
   }
 ]
