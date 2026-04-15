@@ -1,10 +1,24 @@
 [
   {
+    "id": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/atomic-habits/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/atomic-habits/cover.jpg"
+  },
+  {
     "id": "beyond-good",
     "title": "Beyond Good and Evil",
     "author": "Friedrich Nietzsche",
     "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/book.txt",
-    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/cover.png"
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/beyond-good/cover.jpg"
+  },
+  {
+    "id": "communist-manifesto",
+    "title": "The Communist Manifesto",
+    "author": "Karl Marx & Friedrich Engels",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/communist-manifesto/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/communist-manifesto/cover.jpg"
   },
   {
     "id": "crime-punishment",
@@ -14,11 +28,53 @@
     "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/crime-punishment/cover.jpg"
   },
   {
+    "id": "how-think",
+    "title": "How We Think",
+    "author": "John Dewey",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/how-think/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/how-think/cover.jpg"
+  },
+  {
+    "id": "kant-judgement",
+    "title": "Critique of Judgement",
+    "author": "Immanuel Kant",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/kant-judgement/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/kant-judgement/cover.jpg"
+  },
+  {
+    "id": "kant-reason",
+    "title": "Critique of Practical Reason",
+    "author": "Immanuel Kant",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/kant-reason/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/kant-reason/cover.jpg"
+  },
+  {
+    "id": "pragmatism",
+    "title": "Pragmatism",
+    "author": "William James",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/pragmatism/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/pragmatism/cover.jpg"
+  },
+  {
     "id": "notes-underground",
     "title": "Notes from the Underground",
-    "author": "Fyodor Dostoyevsky",
+    "author": "Fyodor Dostoevsky",
     "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/notes-underground/book.txt",
-    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/notes-underground/cover.png"
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/notes-underground/cover.jpg"
+  },
+  {
+    "id": "on-love",
+    "title": "On Love",
+    "author": "Stendhal",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/on-love/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/on-love/cover.jpg"
+  },
+  {
+    "id": "origin-superstitions",
+    "title": "The Origin of Man and of His Superstitions",
+    "author": "Carveth Read",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/origin-superstitions/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/origin-superstitions/cover.jpg"
   },
   {
     "id": "pride-prejudice",
@@ -26,5 +82,12 @@
     "author": "Jane Austen",
     "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/pride-prejudice/book.txt",
     "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/pride-prejudice/cover.jpg"
+  },
+  {
+    "id": "too-human",
+    "title": "Human, All Too Human",
+    "author": "Friedrich Nietzsche",
+    "textUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/too-human/book.txt",
+    "coverUrl": "https://raw.githubusercontent.com/camouflagechicken/EzRead-Library/main/books/too-human/cover.jpg"
   }
 ]
